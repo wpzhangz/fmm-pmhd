@@ -1,4 +1,4 @@
-# scenario4_asymptotic_normality_final.R
+# scenario3_asymptotic_normality_final.R
 # ============================================================================
 # Finite-sample check of the Gaussian approximation of Theorem 3(i) for the
 # PMHD-MCP-R active-submodel minimizer. This is the experiment behind the
