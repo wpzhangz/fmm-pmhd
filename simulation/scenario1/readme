@@ -1,7 +1,9 @@
-
+# Run
+```r
 Rscript scenario1.R --B=100 --n=100,200,500 --cores=8
-
-Output:
+```
+# Output:
+```r
 Scenario 1(a), n=100: resumed 0/100
   checkpoint 16/100
   checkpoint 32/100
@@ -14,3 +16,4 @@ Scenario 1(a), n=100: resumed 0/100
   GM-MLE       P(K0)=0.830 H=0.1371 ISE=0.0061
   AEPD-MLE-HQ  P(K0)=0.190 H=0.2263 ISE=0.0132
 ...
+```
