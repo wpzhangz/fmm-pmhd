@@ -1,7 +1,10 @@
-
+# Run
+```r
 Rscript scenario2.R --B=100 --cores=8
-
-Output:
+```
+# Output:
+```
 Scenario 2, n=100, epsilon=0.050: resumed 0/100
   checkpoint 16/100
 ...
+```
